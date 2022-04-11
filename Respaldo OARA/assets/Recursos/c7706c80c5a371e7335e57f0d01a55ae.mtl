@@ -1,0 +1,30 @@
+newmtl Texture_0
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
+map_Kd f8e6c4681718105abd119c3ad94452eb.jpg
+
+newmtl Untextured
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
+map_Kd Untextured.png
+
+newmtl GeneratedMat4
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
+map_Kd c29daf566281875f05b1d2d2f41ff4ac.png
+
+newmtl NO_MATERIAL
+Ka 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1
+Ns 0.00000
+illum 1
